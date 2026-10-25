@@ -1,0 +1,5 @@
+.media-fallback{display:flex;align-items:flex-start;gap:10px;background:#22231e;border:1px dashed #65563e;color:#c2a46e;padding:12px;margin-top:14px}
+.media-fallback>span{display:block}
+.media-fallback strong,.media-fallback small{display:block}
+.media-fallback strong{font:8px 'DM Mono',monospace;letter-spacing:.8px}
+.media-fallback small{font-size:10px;line-height:1.5;color:#aaa79b;margin-top:5px}
